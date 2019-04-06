@@ -1,5 +1,4 @@
-# gl-t1
-
+## Тестовое задание GoodLine Front-end #1
 ## Project setup
 ```
 npm install
